@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "anxrch의 블로그",
+    pageTitle: "쉽게 배우는 자유정보 이야기",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
